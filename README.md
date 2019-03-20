@@ -1,3 +1,3 @@
 # hello-world
 Hello world repository
-I'm student
+I'm studеnt
