@@ -1,5 +1,5 @@
-#inclide <iostream>
+#inclide <stdio.h>
 
 int main() {
-    std::cout << "123";
+    printf("123");
 }
